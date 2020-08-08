@@ -1,2 +1,4 @@
-# ctf_solutions
-solutions written by myself to various CTF challenges
+# CTF Solutions
+Solutions written by myself to various CTF challenges
+- CSICTF: Arch Enemy 
+- HacktivityCon: Fan Theory
